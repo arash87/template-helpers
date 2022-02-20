@@ -3,6 +3,16 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-02-20T16:14:18.8109725Z"
+    description: Helper templates for common kubernetes objectss
+    digest: 050cc06c24e375b50f113d39dabe672dd5fec6b9f9407a46bccb00dfd2bde6eb
+    name: common
+    type: library
+    urls:
+    - https://github.com/arash87/template-helpers/releases/download/common-0.4.0/common-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-02-20T12:57:16.640502139Z"
     description: Helper templates for common kubernetes objectss
     digest: 240ba5b926eb35578a2b75dc541e93a646a2b839f4fd4dec0585b195365fc597
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://github.com/arash87/template-helpers/releases/download/mylibchart-0.1.0/mylibchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-20T12:57:16.64051924Z"
+generated: "2022-02-20T16:14:18.810998Z"
