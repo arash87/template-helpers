@@ -1,4 +1,4 @@
-{{- define "common.istio.gateway-virtualservice.tpl" -}}
+{{- define "common.istio-gateway-virtualservice.tpl" -}}
 apiVersion: networking.istio.io/v1alpha3
 kind: Gateway
 {{ template "common.metadata" .}}
